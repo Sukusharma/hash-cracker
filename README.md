@@ -1,18 +1,11 @@
 # Hash-cracker
 <h1 align="center">
-  <br>
-  <img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="Hash Buster" width="150">
-  <br>
   Hash cracker 🔐
   <br>
 </h1>
 
 <h4 align="center">Fast Hash Cracking + Instant String-to-Hash Conversion</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.6%2B-blue.svg">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey">
-</p>
 
 A lightweight Python tool to crack hashes and now also convert strings to various hash formats in seconds. Designed for speed, simplicity, and real-world practicality.
 
